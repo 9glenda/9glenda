@@ -1,0 +1,6 @@
+** Languages
+- Rust (2/5)
+- Nix (4/5)
+- Go (5/5)
+- Ocaml (2/5)
+- Posix Shell (3/5)
