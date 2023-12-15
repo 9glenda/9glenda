@@ -4,3 +4,7 @@
 - Go (5/5)
 - Ocaml (2/5)
 - Posix Shell (3/5)
+** Projects
+- [[github.com/seekr-osint/seekr]]
+*** Contributing to
+- [[github.com/eza-community/eza]]
