@@ -10,3 +10,4 @@
 - [[https://github.com/eza-community/eza]]
 *** Small side projects
 - [[https://github.com/9glenda/lc3ash]] small Assambler posix shell
+- [[https://github.com/9glenda/ocaml-flake]] nix flake for ocaml
