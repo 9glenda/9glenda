@@ -4,6 +4,8 @@
 - Go (5/5)
 - Ocaml (2/5)
 - Posix Shell (3/5)
+- Julia (1/5)
+- Haskell (1/5)
 ** Projects
 - [[https://github.com/seekr-osint/seekr]]
 *** Contributing to
